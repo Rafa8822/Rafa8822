@@ -1,4 +1,5 @@
  👋, Hi, I'm Arifa Musharrat
+ 
 #### Web Developer
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.  I have knowledge about C/C++, C#, Java, Java, HTML, CSS, Graphics Design, MS Word, MS Excel, MS PowerPoint. Always want to learn and gather knowledge.
 
@@ -13,6 +14,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Rafa8822)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Rafa8822)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Rafa8822)  
