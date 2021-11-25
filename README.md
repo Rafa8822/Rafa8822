@@ -15,4 +15,4 @@ Skills: PHP/WordPress / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rafa8822)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Rafa8822)  
+ 
