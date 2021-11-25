@@ -1,9 +1,8 @@
  👋, Hi, I'm Arifa Musharrat
  
 #### Web Developer
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.  I have knowledge about C/C++, C#, Java, Java, HTML, CSS, Graphics Design, MS Word, MS Excel, MS PowerPoint. Always want to learn and gather knowledge.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am goal-oriented, and always work with an end goal in mind.   Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+Skills: java / PHP / JavaScript / HTML / CSS/WordPress
 
 - 🔭 I’m currently working on this page. 
 
