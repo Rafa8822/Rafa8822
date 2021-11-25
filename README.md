@@ -1,10 +1,9 @@
   Hi there 👋, HI ,I'm Arifa Musharrat
- Web Developer
+Web Developer
 
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include  JavaScript as well as PHP.
 
-.I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include  JavaScript as well as PHP.
-
-Skills: PHP/WordPress  / JS / HTML / CSS
+Skills: PHP/WordPress / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power.  
