@@ -1,4 +1,4 @@
-  Hi there 👋, HI ,I'm Arifa Musharrat
+ HI👋 ,I'm Arifa Musharrat
   
   
  Web Developer
