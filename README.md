@@ -8,7 +8,7 @@
 
 
 
-Skills: PHP/WordPress  / JS / HTML / CSS
+Skills: PHP/WordPress  / JS / HTML / CSS/Computer Graphics
 
 
 - 🔭 I’m currently working on this page. 
